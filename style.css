@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #323F92;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+header{
+    height:35vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+h1{
+    color:#F8AC24;
+}
+main{
+    width: 50vw;
+    height: 50vh;
+    background-color: #EE622D;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+ul{
+    list-style: none;
+}
+li{
+    color: #323F92;
+    font-size: 3vw;
+}
